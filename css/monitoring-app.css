@@ -1,0 +1,208 @@
+/*Charts*/
+table#infos td{
+    color: rgb(47, 75, 102);
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+}
+
+table#infos th{
+    color: rgb(47, 75, 102);
+    font-weight: 700;
+    text-align: center;
+    font-size: 13px;
+}
+
+#iconleft {
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+
+.form-group img{
+    border-radius: 16px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.3);
+    width: 80px;
+}
+
+.entity-name {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    line-height: 20px;
+    color: rgb(153, 153, 153);
+    padding: 2px 5px 0px;
+    text-align: center;
+}
+
+.divider#divider{
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+
+.col-md-2#button-app{
+    height: 43px;
+}
+
+.alert{
+    margin-top: 40px;
+    margin-bottom: -30px;
+}
+
+.jqInvalid {
+    color: #ff0000;
+}
+
+[class*='-dark'] {
+    background-color:#02243C;
+    color:#f0f0f0;
+}
+[class*='-light'] {
+    background-color:#f9f9f9;
+    color:#999;
+}
+[class*='-blue'] {
+    background-color:#30a5ff;
+    color:#fff;
+}
+[class*='-apple'] {
+    background-color:#005DB3;
+    color:#f8f8f8;
+}
+[class*='-gray'] {
+    background-color:#e6e6e6;
+    color:#666;
+}
+[class*='-green'] {
+    background-color:#5BC236;
+    color:#fff;
+}
+[class*='-momo'] {
+    background-color:#0055A4;
+    color:#fff;
+}
+
+/* hover and active */
+[class*='-dark']:hover,[class*='-dark']:focus {
+    background-color:#12254d;
+    color:#fff;
+}
+[class*='-light']:hover,[class*='-light']:active {
+    background-color:#eeeeee;
+    color:#fff;
+}
+[class*='-blue']:hover,[class*='-blue']:active {
+    background-color:#62a6df;
+    color:#fff;
+}
+[class*='-apple']:hover,[class*='-apple']:active {
+    background-color:#116ec4;
+    color:#fff;
+}
+[class*='-gray']:hover,[class*='-gray']:active {
+    background-color:#d5d5d5;
+    color:#fff;
+}
+[class*='-green']:hover,[class*='-green']:active {
+    background-color:#6cd347;
+    color:#fff;
+}
+
+#libelle-reviews{
+    opacity: 1; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-size: 12px; 
+    height: 30px; 
+    color: rgb(119, 119, 119); 
+    font-family: "ProximaNova-Regular",Helvetica,Arial,sans-serif;
+}
+
+#btv-conc{
+    width: 50px;
+    margin-left: -14px;
+}
+
+/*index css*/
+div#store{
+    margin-bottom: 0px; 
+    margin-top: 0px; 
+    text-align: center;
+}
+
+label#GooglePay{
+    padding-left: 0px; 
+    margin-right: 20px;
+}
+
+label#allStore{
+    margin-left: 300px; /* A enlever quand décommenter beta */
+    padding-left: 0px; 
+    margin-right: 14px;
+}
+
+label#AppStore{
+    padding-left: 0px;
+    margin-right: 350px;
+}
+
+label#Beta{
+    margin-right: -440px;
+    padding-left: 0px;
+}
+
+span#checkGooglePlay{
+    line-height: 30px; 
+    vertical-align: middle; 
+    opacity: 1; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-size: 12px; 
+    height: 30px; 
+    color: rgb(119, 119, 119); 
+    display: inline-block; 
+    font-family: "ProximaNova-Regular",Helvetica,Arial,sans-serif; 
+    max-width: 100px; 
+    margin-left: 10px;
+}
+
+span#checkAppStore{
+    line-height: 30px; 
+    vertical-align: middle; 
+    opacity: 1; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-size: 12px; 
+    height: 30px; 
+    color: rgb(119, 119, 119); 
+    display: inline-block; 
+    font-family: "ProximaNova-Regular",Helvetica,Arial,sans-serif; 
+    max-width: 100px; 
+    margin-left: 10px;
+}
+
+#submitTextGraph{
+    background-color: #E9ECF2;
+    color: #02243C;
+    border-color: #E9ECF2;
+
+}
+
+/*span#checkBeta{
+    line-height: 30px; 
+    vertical-align: middle; 
+    opacity: 1; 
+    font-weight: bold; 
+    font-style: normal; 
+    font-size: 12px; 
+    height: 30px; 
+    color: rgb(119, 119, 119); 
+    display: inline-block; 
+    font-family: "ProximaNova-Regular",Helvetica,Arial,sans-serif; 
+    max-width: 100px; 
+    margin-left: 10px;
+}*/
+
+
+
+
+
